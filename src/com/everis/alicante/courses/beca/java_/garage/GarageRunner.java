@@ -5,7 +5,9 @@ import com.everis.alicante.courses.becajava.garage.ui.GarageMenu;
 public class GarageRunner {
 	
 	public static void main(String [] args) {
-		System.out.println(GarageMenu.getInstance().play());
+		String option=GarageMenu.getInstance().play();
+		System.out.println(option);
+		if
 	}
 
 }
