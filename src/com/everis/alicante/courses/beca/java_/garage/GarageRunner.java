@@ -24,7 +24,6 @@ public class GarageRunner {
 		
 		
 		
-		
 		do {
 			option=GarageMenu.getInstance().play();
 			switch(option) {
